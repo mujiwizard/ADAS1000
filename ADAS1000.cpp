@@ -2,7 +2,7 @@
  *   @file   		ADAS1000.cpp
  *   @brief  		Implementation of ADAS1000 Driver.
  *   @author 		ACozma (andrei.cozma@analog.com)
- *	 @adaptation	Mujtaba Jalil (mujtaba.jalil@trainfo.ca)
+ *	 @adaptation	Mujtaba Jalil (mujtabaabduljalil@yahoo.com)
  *					Adapted the original 'C' code provided by Analog
  *					Devices to 'C++' for use with Arduino.
 ********************************************************************************
